@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=bank
+comment1.target=java.lang.String\ guessCheck(java.lang.String)
+comment2.params=word\ guess\ matched
+comment2.target=java.lang.String\ pattern(java.lang.String,\ java.lang.String,\ java.lang.String)
+comment3.params=category\ keysRef
+comment3.target=java.lang.String\ getBigKey(Dictionary,\ ArrayList)
+numComments=4
